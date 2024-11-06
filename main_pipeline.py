@@ -14,7 +14,7 @@ logging.basicConfig(level=logging.INFO)
 # labdap.tanworkshopdataset111.tan_dfsqltable_sales
 table_spec = (
     'labdap:'
-    'tanworkshopdataset111.tan_dfsqltable_sales'
+    'tan_workshop2.tan_dfsqltable_sales'
 )
 # Define the schema for your BigQuery table
 schema = (
